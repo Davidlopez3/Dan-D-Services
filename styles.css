@@ -16,12 +16,12 @@ hr {
   border-width: 1px;
 } 
 
-
+h1{
+	color:white}
 
 div{
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	text-shadow: 1px 1px #000000;	
-	
+	text-shadow: 1px 1px #FFFFFF;	
 }
 
 
